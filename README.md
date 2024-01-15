@@ -42,19 +42,22 @@
 
 ## 📙Projects 
 
-- Build ETL Pipeline Using AWS Cloud
-- Covid Data Analysis Project
-- Twitter Data Pipeline using Airflow and AWS 
-- YouTube Data Analysis (End-To-End Data Engineering Project)
-- Olympic Data Analytics | End-To-End Azure Data Engineering Project
-- Uber Data Analytics Project On GCP
+| Sr. No. | Projects | Description | Tech Stack | Tags | Code Link |
+|--------|-----------|--------------|-----------|-----|------------|
+| 01. | [Build ETL Pipeline Using AWS Cloud]() | 
+| 02. | [Covid Data Analysis Project]() |
+| 03. | [Twitter Data Pipeline using Airflow and AWS]() |
+| 04. | [YouTube Data Analysis (End-To-End Data Engineering Project)]() |
+| 05. | [Olympic Data Analytics: End-To-End Azure Data Engineering Project]() |
+| 06. | [Uber Data Analytics Project On GCP]() |
 
 ## 💼 Read Real-World Case Studies
 1. Netflix - https://netflixtechblog.medium.com/
 2. AWS - https://aws.amazon.com/solutions/case-studies/
 3. GCP - https://cloud.google.com/customers
 4. Azure - https://azure.microsoft.com/en-us/resources/customer-stories/
-
+5. Spotify - https://engineering.atspotify.com/category/data/
+6. MongoDB - 
 
 
 
