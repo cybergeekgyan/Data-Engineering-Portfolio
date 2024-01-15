@@ -2,14 +2,20 @@
 
 - https://github.com/DataEngineer-io/data-engineer-handbook
 
-### 📚Books 
+## 📚Books 
 
 - [Designing Data-Intensive Applications]()
 - [Fundamentals of Data Engineering]()
 - [The Data Warehouse Toolkit]()
+- [Cracking the Data Engineering Interview]()
+- [Data Engineering with Python]()
+- [Data Pipelines with Apache Airflow]()
+- [The Data Warehouse Toolkit]()
+- [Big Data: Principles and Best Practices of Scalable Real-Time Data Systems]()
+- [Designing Data-Intensive Applications]()
 
 
-### 🧰Tools for Data Engineers
+## 🧰Tools for Data Engineers
 
 - **Basic Skills**: `Linux`, `Git & GitHub`, `Computer Networking`, `Cloud Computing`, `Network & Security`, `Agile Development`
   
@@ -20,7 +26,6 @@
 - **Databases**: `PostgreSQL`, `MongoDB`, `Neo4j`, `Redis`, `Cassandra`, `Apache HBase`, `Snowflake`, `InfluxDB`
 
 - Data Ingestion: `Apache Kafka`, `Flume`, `Logstash`, `Airbyte`, `Apache Spark`, `Talend`, `Informatica`
-
 
 - Data Tranformation: `Python`, `Pandas`, `SQL`, `Apache Spark`, `Hive`, `dbt`, `Matillion`, `Pig`
   
@@ -35,9 +40,7 @@
 - DataOps: `Docker`, `Kubernetes`, `Jenkins`
 
 
-
-
-### 📙Projects 
+## 📙Projects 
 
 - Build ETL Pipeline Using AWS Cloud
 - Covid Data Analysis Project
@@ -46,7 +49,7 @@
 - Olympic Data Analytics | End-To-End Azure Data Engineering Project
 - Uber Data Analytics Project On GCP
 
-### 💼 Read Real-World Case Studies
+## 💼 Read Real-World Case Studies
 1. Netflix - https://netflixtechblog.medium.com/
 2. AWS - https://aws.amazon.com/solutions/case-studies/
 3. GCP - https://cloud.google.com/customers
