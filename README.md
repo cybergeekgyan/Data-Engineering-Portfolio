@@ -50,6 +50,10 @@
 | 04. | [YouTube Data Analysis (End-To-End Data Engineering Project)]() |
 | 05. | [Olympic Data Analytics: End-To-End Azure Data Engineering Project]() |
 | 06. | [Uber Data Analytics Project On GCP]() |
+| 07. | [Data Ingestion and ETL Pipeline using Azure]() | 
+| 08. | [Indian Stock Market Real-Time Data Processing, Analysis & Visualization using Azure Stream Analytics]() |
+| 09. | [Simple Stock Market ETL Process with SQL]() |
+
 
 ## 💼 Read Real-World Case Studies
 1. Netflix - https://netflixtechblog.medium.com/
@@ -57,7 +61,10 @@
 3. GCP - https://cloud.google.com/customers
 4. Azure - https://azure.microsoft.com/en-us/resources/customer-stories/
 5. Spotify - https://engineering.atspotify.com/category/data/
-6. MongoDB - 
+6. MongoDB - https://www.mongodb.com/blog/all
+7. Swiggy - https://bytes.swiggy.com/the-swiggy-delivery-challenge-part-one-6a2abb4f82f6
+          - https://bytes.swiggy.com/swiggy-distance-service-9868dcf613f4
+          - https://bytes.swiggy.com/the-tech-that-brings-you-your-food-1a7926229886
 
 
 
