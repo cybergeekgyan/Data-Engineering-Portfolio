@@ -2,6 +2,17 @@
 
 - https://github.com/DataEngineer-io/data-engineer-handbook
 
+
+### Data Engineering Workflow
+
+<img width="1117" alt="Screenshot 2024-01-26 at 12 50 44 AM" src="https://github.com/cybergeekgyan/Data-Engineering-Portfolio/assets/56320349/a2997131-ce46-4a3b-b20d-e5d08a7e4c6e">
+
+
+### Big Data Architecture
+
+<img width="1047" alt="Screenshot 2024-01-26 at 12 53 23 AM" src="https://github.com/cybergeekgyan/Data-Engineering-Portfolio/assets/56320349/97ae6570-851c-472c-b545-e3e633b2ad61">
+
+
 ## 📚Books 
 
 - [Designing Data-Intensive Applications]()
