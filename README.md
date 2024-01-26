@@ -30,7 +30,7 @@
 
 - **Basic Skills**: `Linux`, `Git & GitHub`, `Computer Networking`, `Cloud Computing`, `Network & Security`, `Agile Development`
   
-- **Advanced Skills (Good to Know)**: ` Data Lake & Data WareHouse Concepts`, `REST APIs`, `Databases(SQL & NoSQL)`,
+- **Advanced Skills (Good to Know)**: ` Data Lake & Data WareHouse Concepts`, `REST APIs`, `Databases(SQL & NoSQL)`
   
 - **Programming Languages**: `Python`, `SQL`, `Java`, `Scala`
   
@@ -65,8 +65,42 @@
 | 08. | [Indian Stock Market Real-Time Data Processing, Analysis & Visualization using Azure Stream Analytics]() |
 | 09. | [Simple Stock Market ETL Process with SQL]() |
 
+## 🔶 Free Learning Resources
 
-## 💼 Read Real-World Case Studies
+| Tools | Used for | Official Docs | Youtube |
+| ------|---------|---------------|----------|
+| DBMS | 
+| SQL |
+| Python |
+| Linux |
+| Data Warehouse Concepts | 
+| Data Pipelines |
+| PySpark |
+| Spark |
+| Kafka |
+| Databricks |
+| Snowflake |
+| Cloud Computing Concepts |
+| Distributed Systems fundamentals |
+| AWS |
+| Azure |
+| GCP |
+| Airflow |
+| Jenkins |
+| Github Actions |
+| Terraform |
+| Sonarqube |
+| Docker |
+| Kubernetes |
+| Power BI |
+| Tableau |
+| Apache Superset | 
+| Prometheus |
+| Graphana |
+| Datadog |
+
+
+## 💼 Read Real-World Case Studies -> Tech Blogs
 1. Netflix - https://netflixtechblog.medium.com/
 2. AWS - https://aws.amazon.com/solutions/case-studies/
 3. GCP - https://cloud.google.com/customers
