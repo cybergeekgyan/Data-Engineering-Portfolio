@@ -110,7 +110,7 @@
 7. Swiggy - https://bytes.swiggy.com/the-swiggy-delivery-challenge-part-one-6a2abb4f82f6
           - https://bytes.swiggy.com/swiggy-distance-service-9868dcf613f4
           - https://bytes.swiggy.com/the-tech-that-brings-you-your-food-1a7926229886
-
+8. Zomato - https://blog.zomato.com/
 
 
 
