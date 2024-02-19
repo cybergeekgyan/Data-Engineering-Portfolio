@@ -51,6 +51,60 @@
 - DataOps: `Docker`, `Kubernetes`, `Jenkins`
 
 
+### Here's what's on the menu: 👇
+
+- 🐍 Python,
+- 📊 SQL,
+- 🛠️ MySQL,
+- 🌳 MongoDB,
+- 🔥 PySpark,
+- 🎈 Bash,
+- 🌬️ Airflow,
+- ☕ Apache Kafka,
+- 🐙 Git,
+- 🐈 GitHub,
+- ⚙️ CICD basics,
+- 🏬 Data Warehousing,
+- 🛠️ DBT,
+- 🌊 Data Lakes,
+- 📘 DataBricks,
+- ☁️ Azure Databricks,
+- ❄️ Snowflake,
+- 🌪️ Apache NiFi,
+- 🌐 Debezium
+
+
+1. Master Python: https://lnkd.in/d-pZPyf5
+
+2. Learn SQL: https://lnkd.in/dzAiRF-x
+
+3. Get hands-on with MySQL: https://lnkd.in/ddpSkUhc
+
+4. Dive into MongoDB: https://lnkd.in/dHQ4VC2E
+
+5. Master PySpark: https://lnkd.in/d7fgs7dE
+
+6. Discover Bash, Airflow & Kafka: https://lnkd.in/dDhuEqQE
+
+7. Master Git & GitHub: https://lnkd.in/dqJ7J3kN
+
+8. Understand CICD basics: https://lnkd.in/dcfKBmCa
+
+9. Decode Data Warehousing: https://lnkd.in/dPVRDJT5
+
+10. Learn DBT: https://lnkd.in/eG9eaEuE
+
+11. Understand Data Lakes: https://lnkd.in/dtZKJ4d6
+
+12. Explore DataBricks: https://lnkd.in/dCBiQXPR
+
+13. Learn Azure Databricks: https://lnkd.in/dzmwBs4Y
+
+14. Master Snowflake: https://lnkd.in/dDBeddVy
+
+15. Explore Apache NiFi: https://lnkd.in/de7bvnSt
+
+
 ## 📙Projects 
 
 | Sr. No. | Projects | Description | Tech Stack | Tags | Code Link |
@@ -67,25 +121,28 @@
 
 ## 🔶 Free Learning Resources
 
-| Tools | Used for | Official Docs | Youtube |
-| ------|---------|---------------|----------|
-| DBMS | 
-| SQL |
-| Python |
+| Tools | Link| Used for | Official Docs | Youtube |
+| ------|---------|---------------|----------|-----|
+| DBMS | - [MySQL](https://lnkd.in/ddpSkUhc) - [MongoDB](https://lnkd.in/dHQ4VC2E)
+| SQL | https://lnkd.in/dzAiRF-x
+| Python | https://lnkd.in/d-pZPyf5 |
 | Linux |
-| Data Warehouse Concepts | 
+| Data Warehouse & Lake Concepts | - [Data Warehouse](https://lnkd.in/dPVRDJT5) - [Data Lakes](https://lnkd.in/dtZKJ4d6) 
 | Data Pipelines |
-| PySpark |
-| Spark |
+| DBT | https://lnkd.in/eG9eaEuE
+| PySpark | https://lnkd.in/d7fgs7dE
 | Kafka |
-| Databricks |
-| Snowflake |
+| Apache Nifi | https://lnkd.in/de7bvnSt
+| Airflow |
+| Databricks | https://lnkd.in/dCBiQXPR
+| Snowflake | https://lnkd.in/dDBeddVy
 | Cloud Computing Concepts |
 | Distributed Systems fundamentals |
 | AWS |
 | Azure |
 | GCP |
-| Airflow |
+| Git & GitHub | https://lnkd.in/dqJ7J3kN
+| CI/CD | https://lnkd.in/dcfKBmCa
 | Jenkins |
 | Github Actions |
 | Terraform |
