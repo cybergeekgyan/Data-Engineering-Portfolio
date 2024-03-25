@@ -2,6 +2,10 @@
 
 End-to-End Indian Stock Market Data Engineering Project on Real-time stock market data using Kafka 
 
+## Architecture
+
+![architecture](https://github.com/cybergeekgyan/Data-Engineering-Portfolio/blob/main/Stock%20Market%20Real-Time%20Data%20Analysis%20Using%20Kafka/Architecture.jpg)
+
 ## Pre-requisite
 
 - Python --> Programming Language
@@ -12,4 +16,4 @@ End-to-End Indian Stock Market Data Engineering Project on Real-time stock marke
 - Apache Airflow
 - Glue Crawler & Glue Catalog
 - Athena
-- SQK
+- SQL
